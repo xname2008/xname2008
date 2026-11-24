@@ -1,6 +1,6 @@
 # Hamid Zahedzade
 
-Full-stack developer based in Shiraz, Iran, and open to relocation to Germany.
+Full-stack developer based in Shiraz, Iran.
 
 I build web platforms with TypeScript, Next.js, Python (FastAPI), and PostgreSQL, and deploy them with Docker and nginx.
 
